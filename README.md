@@ -7,5 +7,7 @@ levels progressed, the speed of the vehicles increased which essentially made th
 for the user.
 
 Microcontroller used : STM - 32 
+
 Language used : Embedded-C
+
 Protocols used : SPI, I2C, GPIO and DMA
